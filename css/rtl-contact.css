@@ -22,3 +22,7 @@
 .address_info {
     float: right;
 }
+
+.one_fourth {
+    width: 46%;
+}

@@ -20,7 +20,7 @@
 	src: url('../fonts/DroidNaskh-Bold.ttf');
 }
 
-body, h1, h2 {
+body, h1, h2, h4 {
     font-family: 'yekan', 'Droid Arabic Naskh', 'Iranian Sans', 'Ubuntu';
 }
 
@@ -150,4 +150,12 @@ ul.list_1 {
 /*FOOTER*/
 .newsletter_two .left, .twitter_feeds_two .left {
     float: right;
+}
+
+.one_fourth {
+    width: 30%;
+}
+
+.one_half {
+    width: 100%;
 }
