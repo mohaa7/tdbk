@@ -20,7 +20,7 @@
 	src: url('../fonts/DroidNaskh-Bold.ttf');
 }
 
-body, h1, h2, h4 {
+body, h1, h2, h3, h4, h5, p {
     font-family: 'yekan', 'Droid Arabic Naskh', 'Iranian Sans', 'Ubuntu';
 }
 
