@@ -26,3 +26,8 @@
 .one_fourth {
     width: 46%;
 }
+
+.one_half, .two_third {
+  margin-left: auto;
+  margin-right: 4%;
+}
